@@ -12,3 +12,8 @@ streamlit
 beautifulsoup4
 nsepython
 nsepy
+pyyaml
+python-dotenv
+dhanhq
+yfinance
+matplotlib
